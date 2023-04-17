@@ -1,8 +1,8 @@
-V:  caizhsp
+### V:  caizhsp
 
-email:  allen_cczhsp@outlook.com
+### email:  allen_cczhsp@outlook.com
 
-启动步骤：
+### 启动步骤：
 
 1.打开webapp，下载依赖，npm run dev运行
 
@@ -16,7 +16,7 @@ sql文件在xt_api文件夹中，需要先导入数据库，再在node配置中�
 
 默认登录账号密码admin 123456
 
-功能点有：
+### 功能点有：
 
 商品分类
 商品规格
@@ -25,4 +25,4 @@ sql文件在xt_api文件夹中，需要先导入数据库，再在node配置中�
 轮播图管理
 秒杀活动管理等
 
-此网站为一个极其简易的系统，仅供参考
+### 此网站为一个极其简易的系统，仅供参考

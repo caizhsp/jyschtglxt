@@ -1,3 +1,6 @@
+V:caizhsp
+email:allen_cczhsp@outlook.com
+
 启动步骤：
 
 1.打开webapp，下载依赖，npm run dev运行
@@ -21,6 +24,5 @@ sql文件在xt_api文件夹中，需要先导入数据库，再在node配置中�
 秒杀活动管理等
 
 功能都完好，可下载后正常查看操作
-
 
 
